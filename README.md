@@ -1,0 +1,3 @@
+- 👋 My name is Fred Hahnel
+- setting up GitHub today
+- I am an Email Programmer located in Detroit, MI USA
